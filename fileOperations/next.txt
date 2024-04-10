@@ -1,0 +1,5 @@
+r- for read 
+w- for write
+x- for  create
+a- fore append
+
